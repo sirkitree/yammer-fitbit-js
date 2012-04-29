@@ -11,3 +11,5 @@ _Posts your Fitbit badges to Yammer._
 
 * Take a look at [Nyam](https://github.com/csanz/node-nyam) for example on how to use Oauth and connect to use Yammer.
 * Take a look at [Fitbit-js](https://github.com/smurthas/fitbit-js) for an example on how to connect to and use Fitbit api. (Perhaps even use it.)
+* Obtain new [Fitbit API Keys](https://dev.fitbit.com/apps/new).
+* Obtain new [Yammer API Keys](https://www.yammer.com/client_applications/new).
