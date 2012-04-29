@@ -5,14 +5,14 @@
   "author" : "Jerad Bitner <sirkitree@gmail.com>",
   "keywords" : ["yammer", "fitbit"],
   "main" : "lib/yammer-fitbit.js",
-  "directories" : { "lib" : "./lib" },
+  "directories" : {
+    "lib" : "./lib"
+  },
   "dependencies" : {
-    "yammer" : "0.0.2",
-    "fitbit" : "0.0.0"
+    "oauth" : "0.9.7"
   },
   "repositories" : {
     "type" : "git",
     "url" : "http://github.com/sirkitree/yammer-fitbit-js.git"
-  },
-  "engines" : { "node" : ">0.2.0 <0.7.0" }
+  }
 }
